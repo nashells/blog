@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.BPw0-pHp.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"VitePress/background.md","filePath":"VitePress/background.md"}'),a={name:"VitePress/background.md"};function s(o,c,n,d,i,p){return r(),t("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};

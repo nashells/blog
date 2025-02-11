@@ -8,8 +8,8 @@ hero:
   tagline: ソフトウェア開発の学び直しを中心に
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: VitePress
+      link: /VitePress
     - theme: alt
       text: API Examples
       link: /api-examples
