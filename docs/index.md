@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Blog"
-  text: "blog site"
-  tagline: My great project tagline
+  name: "sky佐藤のブログ"
+  text: "いろいろやってみたことの記録"
+  tagline: ソフトウェア開発の学び直しを中心に
   actions:
     - theme: brand
       text: Markdown Examples
