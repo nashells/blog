@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: VitePress
-      link: /VitePress
+      link: /VitePress/
     - theme: alt
       text: API Examples
       link: /api-examples
