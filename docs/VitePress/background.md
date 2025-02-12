@@ -1,4 +1,4 @@
 # 背景
 
-## VitePreeeとは
+## VitePressとは
 
