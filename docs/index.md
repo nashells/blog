@@ -10,16 +10,17 @@ hero:
     - theme: brand
       text: VitePress
       link: /VitePress/background.md
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    - theme: brand
+      text: Git
+      link: /Git/pro_git.md
 
 features:
   - title: VitePress
     details: VitePressを使うためのノウハウ
     link: /VitePress/background.md
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Git
+    details: Gitの使い方について
+    link: /Git/pro_git.md
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
