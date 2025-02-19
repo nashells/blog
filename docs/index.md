@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "sky佐藤のブログ"
+  name: "アラウンド定年のブログ"
   text: "いろいろやってみたことの記録"
   tagline: ソフトウェア開発の学び直しを中心に
   actions:
     - theme: brand
       text: VitePress
-      link: /VitePress/
+      link: /VitePress/background.md
     - theme: alt
       text: API Examples
       link: /api-examples
@@ -17,7 +17,7 @@ hero:
 features:
   - title: VitePress
     details: VitePressを使うためのノウハウ
-    link: /VitePress
+    link: /VitePress/background.md
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
