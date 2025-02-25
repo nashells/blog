@@ -4,7 +4,7 @@ FROM node:20
 RUN apt update && apt install -y less man-db sudo
 
 # Install Python
-RUN apt install -y python3 python3-pip
+RUN apt update && apt install -y python3 python3-pip
 
 # Create a symlink for python
 RUN ln -s /usr/bin/python3 /usr/bin/python
